@@ -1,0 +1,123 @@
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+/* BODY BACKGROUND COLOR */
+
+.bg-image {
+  position: absolute;
+}
+
+/* <!-- HEADER SECTION --> */
+
+.header {
+  padding: 2% 0;
+}
+.header .navbar-brand {
+  color: #f9fcfb;
+  font-size: 1.5rem;
+  margin-left: 2rem;
+}
+
+/* HERO CONTENTS */
+
+.demat-details {
+  padding: 5% 13% 15%;
+  color: #f9fcfb;
+}
+
+.demat-details .detail-h3 {
+  text-align: left;
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.demat-details .detail-p {
+  line-height: 2rem;
+  text-align: left;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* FORM */
+
+.form {
+    padding: 5% 20% 10%;
+}
+
+.form-signup {
+  color: #aaa;
+}
+
+.form-control {
+  margin-top: 5%;
+}
+
+.input-group-text {
+    margin: 5% 0;
+}
+
+.send-otp-btn {
+  margin: 5% 0;
+}
+
+.sign-box-p {
+  color: #aaa;
+}
+
+.sign-in-btn {
+  color: blue;
+}
+
+/* HEADING */
+
+.benefits-h1 {
+  margin-top: 5%;
+  text-align: center;
+  font-weight: lighter;
+}
+
+/* CAROUSAL  */
+
+.carousal-row {
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.carousal-col {
+  padding: 0 10%;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+.carousal-p {
+  color: #aaa;
+  line-height: 2rem;
+}
+
+/* vertio-trend */
+
+.vertio-trend {
+  padding: 2rem 0;
+  text-align: center;
+  color: blue;
+}
+
+.join-h3 {
+  font-weight: bolder;
+  font-size: 2.5rem;
+}
+
+.join-h6 {
+  font-weight: lighter;
+  font-size: 1rem;
+}
+
+/* PRICING */
+
+.offers {
+  padding: 5% 15%;
+}
